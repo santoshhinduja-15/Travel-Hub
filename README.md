@@ -18,3 +18,5 @@ TravelHub is an innovative online travel platform that connects travelers with d
 ## Installation
 1. Clone the repository:
    git clone https://github.com/santoshhinduja-15/Travel-Hub.git
+   
+![image](https://github.com/user-attachments/assets/d6df3101-524e-40a3-b1bf-7f07a321c3fe)
